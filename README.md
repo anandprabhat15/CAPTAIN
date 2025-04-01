@@ -1,4 +1,4 @@
-# 🤖 CAPTAIN AI - Intelligent Chat Interface
+# 🤖 CAPTAIN AI GPT
 
 ![CAPTAIN AI Demo](demo.gif) *Replace with actual demo gif*
 
