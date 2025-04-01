@@ -1,6 +1,8 @@
 # 🤖 CAPTAIN AI GPT
 
-![CAPTAIN AI Demo](demo.gif) *Replace with actual demo gif*
+![CAPTAIN AI Demo](demo.gif) 
+
+https://anandprabhat15.github.io/CAPTAIN/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-green.svg)](https://github.com/yourusername/CAPTAIN-AI/releases)
